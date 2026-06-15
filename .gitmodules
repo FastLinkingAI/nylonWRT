@@ -16,9 +16,11 @@
 [submodule "openembedded-core"]
 	path = openembedded-core
 	url = git@github.com:openembedded/openembedded-core.git
+	branch = kirkstone
 [submodule "bitbake"]
 	path = bitbake
 	url = git@github.com:openembedded/bitbake.git
 [submodule "meta-openwrt"]
 	path = meta-openwrt
 	url = git@github.com:kraj/meta-openwrt.git
+	branch = kirkstone
